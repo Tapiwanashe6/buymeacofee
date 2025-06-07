@@ -59,7 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tapiwanashe6&show_icons=true&locale=en&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwanashe6&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapiwanashe6&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tapiwanashe6&show_icons=true&locale=en&theme=default" height="150" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwanashe6&theme=default" height="150" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapiwanashe6&layout=compact&theme=default" height="150" width="350" />
 </p>
